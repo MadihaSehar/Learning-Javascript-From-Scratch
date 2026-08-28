@@ -53,5 +53,11 @@ A beautiful, single-file, modern To-Do List application built with pure HTML, CS
 
 ---
 
+## 📚 Learning Practice Files
+
+- [`day1-basics.js`](./day1-basics.js): JavaScript basics practice covering variables, data types (`number`, `string`, `boolean`, `undefined`, `null`, `BigInt`, `Symbol`), `typeof` quirks, and objects.
+
+---
+
 ## 📄 License
 This project is open-source and free to use for learning and personal productivity.
