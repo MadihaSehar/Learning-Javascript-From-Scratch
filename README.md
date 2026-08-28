@@ -48,7 +48,7 @@ A beautiful, single-file, modern To-Do List application built with pure HTML, CS
 - **Vanilla JavaScript (ES6+)**: Event delegation, LocalStorage API, state management, modal logic, dynamic rendering.
 - **Lucide Icons**: SVG icon library loaded via CDN.
 
-- <img width="1314" height="618" alt="image" src="https://github.com/user-attachments/assets/43b60528-a82c-485b-b49f-ce2d2b9113cc" />
+<img width="1314" height="618" alt="image" src="https://github.com/user-attachments/assets/43b60528-a82c-485b-b49f-ce2d2b9113cc" />
 <img width="1366" height="664" alt="image" src="https://github.com/user-attachments/assets/5e122706-e459-4b38-91c1-7beaffbd0d61" />
 
 
