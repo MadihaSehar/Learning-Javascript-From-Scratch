@@ -49,6 +49,7 @@ A beautiful, single-file, modern To-Do List application built with pure HTML, CS
 - **Lucide Icons**: SVG icon library loaded via CDN.
 
 - <img width="1314" height="618" alt="image" src="https://github.com/user-attachments/assets/43b60528-a82c-485b-b49f-ce2d2b9113cc" />
+<img width="1366" height="664" alt="image" src="https://github.com/user-attachments/assets/5e122706-e459-4b38-91c1-7beaffbd0d61" />
 
 
 ---
@@ -56,7 +57,7 @@ A beautiful, single-file, modern To-Do List application built with pure HTML, CS
 ## 📚 Learning Practice Files
 
 - [`day1-basics.js`](./day1-basics.js): JavaScript basics practice covering variables, data types (`number`, `string`, `boolean`, `undefined`, `null`, `BigInt`, `Symbol`), `typeof` quirks, and objects.
-- <img width="1366" height="664" alt="image" src="https://github.com/user-attachments/assets/fd2879f0-8c14-46fb-9510-11e90d00517e" />
+
 
 
 ---
