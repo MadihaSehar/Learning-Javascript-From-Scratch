@@ -54,9 +54,12 @@ A beautiful, single-file, modern To-Do List application built with pure HTML, CS
 
 ---
 
-## 📚 Learning Practice Files
+## 📚 2-Day Learning Progress
 
-- [`day1-basics.js`](./day1-basics.js): JavaScript basics practice covering variables, data types (`number`, `string`, `boolean`, `undefined`, `null`, `BigInt`, `Symbol`), `typeof` quirks, and objects.
+- 📄 **Day 1**: [`day1-basics.js`](./day1-basics.js) — Variables, Data Types (`typeof`), Objects & Basic Output.
+- ⚡ **Day 2**: [`day2.js`](./day2.js) ([`day2-operators-conditionals.js`](./day2-operators-conditionals.js)) — Operators, Equality (`==` vs `===`), Logical Logic, `if/else`, Ternary Operator & Switch.
+
+
 
 
 Personal opinion:
